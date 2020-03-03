@@ -1,0 +1,8 @@
+TYPES OF BINDING 
+    - One Way Binding
+        {{}} --> Known as interpolation binding (one way binding) (component to view)
+        []  -->  Property Binding (On way binding) (component to view) (Can manipulate attributes of in DOM) 
+        ()  --> Event binding (On way binding) (view to component)
+    -Two Way Binding
+        [()] --> Two way binding (component to view and vise versa)
+
